@@ -1,0 +1,10 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart {
+  width: 200px;
+}
